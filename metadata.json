@@ -1,0 +1,8 @@
+{
+  "name": "Classroom Helper",
+  "description": "Classroom Helper — Offline-capable 3D classroom randomizer, Bikram Sambat daily attendance register, and 3D student character studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
